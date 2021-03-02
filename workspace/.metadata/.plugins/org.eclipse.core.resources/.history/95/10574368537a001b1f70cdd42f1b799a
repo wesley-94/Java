@@ -1,0 +1,15 @@
+package javaStudy_02;
+
+public class ByteExam4 {
+
+	public static void main(String[] args) {
+		try(
+				DataInputStream in = new DataInputStream(new FileInputStream("data.txt"));
+				) {
+			
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

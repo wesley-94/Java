@@ -1,0 +1,7 @@
+package javaStudy_02;
+
+public class MyHello {
+	public void hello() {
+		System.out.println("hello");
+	}
+}

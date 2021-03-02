@@ -1,0 +1,9 @@
+package javaStudy_01;
+
+public class Student {
+	String name;
+	String number;
+	int birthYear;
+	
+	
+}

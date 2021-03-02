@@ -1,0 +1,15 @@
+package javaStudy_01;
+
+public class BoxExam {
+
+	public static void main(String[] args) {
+		Box box = new Box();
+		box.setObj(new Object());
+		Object obj = box.getObj();
+		
+		box.setObj("hello");
+		String str = (String) box.getObj();
+		System.out.println(str);
+	}
+
+}

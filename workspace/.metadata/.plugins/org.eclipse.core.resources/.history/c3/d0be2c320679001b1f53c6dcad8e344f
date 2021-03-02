@@ -1,0 +1,12 @@
+package javaStudy_02;
+
+import java.time.LocalDateTime;
+
+public class TimeExam {
+
+	public static void main(String[] args) {
+		LocalDateTime timePoint = LocalDateTime.now();
+		
+	}
+
+}

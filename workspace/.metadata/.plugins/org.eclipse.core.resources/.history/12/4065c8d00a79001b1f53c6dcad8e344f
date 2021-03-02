@@ -1,0 +1,13 @@
+package javaStudy_02;
+
+import java.io.FileInputStream;
+
+public class ByteExam1 {
+
+	public static void main(String[] args) {
+		FileInputStream fis = null;
+		
+		fis = new FileInputStream("src/javaStudy_02/ByteExam1.java");
+	}
+
+}

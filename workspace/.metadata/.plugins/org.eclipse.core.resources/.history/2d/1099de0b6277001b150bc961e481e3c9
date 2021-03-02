@@ -1,0 +1,13 @@
+package javaStudy_01;
+
+public class Box<E> {
+	private Object obj;
+	
+	public void setObj(Object obj) {
+		this.obj = obj;
+	}
+	
+	public Object getObj() {
+		return obj;
+	}
+}

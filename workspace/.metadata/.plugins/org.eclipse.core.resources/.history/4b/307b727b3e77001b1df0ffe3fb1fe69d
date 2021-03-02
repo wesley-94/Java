@@ -1,0 +1,9 @@
+package javaStudy_01;
+
+public class WrapperExam {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

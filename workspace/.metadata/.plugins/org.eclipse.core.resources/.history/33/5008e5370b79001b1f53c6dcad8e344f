@@ -1,0 +1,24 @@
+package javaStudy_02;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+public class ByteExam1 {
+
+	public static void main(String[] args) {
+		FileInputStream fis = null;
+		FileOutputStream fos = null;
+		
+		try {
+			fis = new FileInputStream("src/javaStudy_02/ByteExam1.java");
+			fos = new FileOutputStream("byte.txt");
+			
+			
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

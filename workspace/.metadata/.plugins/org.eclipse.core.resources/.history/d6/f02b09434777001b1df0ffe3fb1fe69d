@@ -1,0 +1,9 @@
+package javaStudy_01;
+
+public class Box {
+	private Object obj;
+	
+	public void setObj(Object obj) {
+		
+	}
+}

@@ -1,0 +1,9 @@
+package javaStudy_02;
+
+public class MusicBoxExam1 {
+
+	public static void main(String[] args) {
+		MusicBox box = new MusicBox();
+	}
+
+}

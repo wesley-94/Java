@@ -1,0 +1,9 @@
+package javaStudy_01;
+
+public class BoxExam {
+
+	public static void main(String[] args) {
+		Box box = new Box();
+	}
+
+}

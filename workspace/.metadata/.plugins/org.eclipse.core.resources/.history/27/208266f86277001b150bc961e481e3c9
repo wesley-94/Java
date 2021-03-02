@@ -1,0 +1,9 @@
+package javaStudy_01;
+
+public class setExam {
+
+	public static void main(String[] args) {
+		Set<String> set1 = new HashSet<>();
+	}
+
+}

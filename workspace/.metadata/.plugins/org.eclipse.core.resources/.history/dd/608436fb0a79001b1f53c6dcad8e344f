@@ -1,0 +1,17 @@
+package javaStudy_02;
+
+import java.io.FileInputStream;
+
+public class ByteExam1 {
+
+	public static void main(String[] args) {
+		FileInputStream fis = null;
+		
+		try {
+			fis = new FileInputStream("src/javaStudy_02/ByteExam1.java");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}
