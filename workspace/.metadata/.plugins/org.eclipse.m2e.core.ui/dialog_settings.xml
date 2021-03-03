@@ -26,13 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="kr.or.connect.mavenweb"/>
+			<item value="kr.or.connect.jdbcexam"/>
 		</list>
 		<list key="groupId">
 			<item value="kr.or.connect"/>
 		</list>
 		<list key="artifactId">
-			<item value="mavenweb"/>
+			<item value="jdbcexam"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,5 +68,7 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>
