@@ -1,9 +1,0 @@
-package javaStudy_01;
-
-public class MathExam {
-
-	public static void main(String[] args) {
-		Math.max(5, 30);
-	}
-
-}
