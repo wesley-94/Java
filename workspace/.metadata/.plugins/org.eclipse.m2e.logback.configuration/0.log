@@ -939,3 +939,5 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2021-03-04 16:27:14,179 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\java\workspace\jdbcexam\src\main\resources
 2021-03-04 16:27:14,184 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-03-04 16:27:14,184 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\java\workspace\jdbcexam\src\test\resources
+2021-03-05 09:16:31,588 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-05 10:55:00,239 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
