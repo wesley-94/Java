@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\java\workspace\calculatorcli\src\test\java\org\edwith\webbe\calculatorcli\MyServiceTest.java"/>
 			<item value="C:\java\workspace\diexam01\src\main\java\kr\or\connect\diexam01\ApplicationConfig2.java"/>
 			<item value="C:\java\workspace"/>
 		</list>
@@ -27,18 +28,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.edwith.webbe.calculatorcli"/>
-			<item value="kr.or.connect.diexam01"/>
-			<item value="kr.or.connect.jdbcexam"/>
+			<item value="kr.or.connect.guestbook"/>
+			<item value="kr.or.connect.guestbookexam"/>
 		</list>
 		<list key="groupId">
-			<item value="org.edwith.webbe"/>
 			<item value="kr.or.connect"/>
 		</list>
 		<list key="artifactId">
-			<item value="calculatorcli"/>
-			<item value="diexam01"/>
-			<item value="jdbcexam"/>
+			<item value="guestbook"/>
+			<item value="guestbookexam"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

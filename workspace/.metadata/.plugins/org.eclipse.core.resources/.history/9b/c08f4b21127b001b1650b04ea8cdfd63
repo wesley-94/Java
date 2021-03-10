@@ -1,8 +1,0 @@
-package javaStudy_02;
-
-public class ThreadA {
-	public static void main(String[] args) {
-		ThreadB b = new ThreadB();
-		b.start();
-	}
-}
