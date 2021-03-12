@@ -26,7 +26,7 @@ public class GuestbookServiceImpl implements GuestbookService {
 	@Transactional
 	public List<Guestbook> getGuestbooks(Integer start) {
 		List<Guestbook> list = guestbookDao.selectAll(start, GuestbookService.LIMIT);
-		return null;
+		return list;
 	}
 
 	@Override

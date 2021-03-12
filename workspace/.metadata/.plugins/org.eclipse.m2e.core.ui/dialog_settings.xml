@@ -28,13 +28,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.edwith.webbe.securityexam"/>
+			<item value="org.edwith.webbe.calculator"/>
 			<item value="kr.or.connect.guestbook"/>
 			<item value="kr.or.connect.guestbookexam"/>
 		</list>
 		<list key="groupId">
+			<item value="org.edwith.webbe"/>
 			<item value="kr.or.connect"/>
 		</list>
 		<list key="artifactId">
+			<item value="securityexam"/>
+			<item value="calculator"/>
 			<item value="guestbook"/>
 			<item value="guestbookexam"/>
 		</list>
